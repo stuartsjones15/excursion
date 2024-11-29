@@ -2,14 +2,16 @@ body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    font-size: 50px;
+    font-size: 21px;
     color: white;
+    font-weight: 300;
 }
 
 .header--main {
     font-weight: normal;
     font-size: 50px;
     color: white;
+    font-weight: 300;
 }
 
 .header--secondary {
