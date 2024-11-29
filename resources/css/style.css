@@ -5,3 +5,14 @@ body {
     font-size: 50px;
     color: white;
 }
+
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+# {
+    font-size: 15px;
+    color: aquamarine;
+}
