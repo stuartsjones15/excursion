@@ -24,9 +24,13 @@ body {
     font-size: 21px;
 }
 
-
 .link--cta {
     font-size: 15px;
     color: aquamarine;
 }
 
+.footer--copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
